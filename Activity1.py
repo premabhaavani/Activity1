@@ -7,4 +7,4 @@ print("Hello, World!")
 
 
 
-print("Welome to Github, This is the changes made.")
+print("Welome to Github, This is the change made.")
